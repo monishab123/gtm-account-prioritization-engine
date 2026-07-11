@@ -1,0 +1,16 @@
+company,industry,employee_count,funding_stage,arr_potential_usd,website_visits_30d,email_opens_30d,demo_requested,champion_title,tech_stack_signal,last_touch_days_ago
+Brightline Logistics,Supply Chain,850,Series C,120000,42,6,TRUE,VP Operations,Snowflake,3
+Cadence Health,Healthtech,220,Series B,65000,18,3,FALSE,Director of Data,Databricks,14
+Ferro Materials,Manufacturing,3200,Public,300000,9,1,FALSE,IT Manager,Legacy ERP,45
+Vantage Retail Co,Retail,1400,Series D,180000,55,9,TRUE,Head of Growth,Salesforce+Snowflake,1
+Northwind Analytics,Data/Analytics,90,Series A,28000,31,5,FALSE,Founder/CEO,Postgres,7
+Solace Robotics,Robotics,410,Series B,95000,12,2,FALSE,Eng Manager,AWS,30
+Circuit Peak Semiconductors,Hardware,5000,Public,250000,6,1,FALSE,Procurement Lead,SAP,60
+Lumen Insurance Group,Insurance,2100,Series E,210000,38,7,TRUE,VP Data Platform,Snowflake+Databricks,2
+Marrow Biotech,Biotech,150,Series A,32000,22,4,FALSE,Head of R&D Ops,AWS,10
+Tidewater Financial,FinServ,980,Series C,140000,47,8,TRUE,Chief Data Officer,Snowflake,4
+Pinehill Media,Media/AdTech,300,Series B,58000,15,2,FALSE,VP Marketing,GCP,20
+Ashgrove Energy,Energy,1700,Series D,160000,29,5,FALSE,Director of IT,Snowflake,12
+Copperline Freight,Logistics,600,Series B,72000,10,1,FALSE,Ops Analyst,Legacy,50
+Nimbus Cloud Systems,SaaS/Infra,270,Series A,40000,36,6,FALSE,Head of Platform,Snowflake+dbt,6
+Alderway Retailers,Retail,4200,Public,220000,8,1,FALSE,Category Manager,Oracle,55

@@ -1,0 +1,26 @@
+[
+  {
+    "company": "Brightline Logistics",
+    "subject": "Quick idea for Brightline Logistics's data team",
+    "body": "Hi {first_name},\n\nNoticed Brightline Logistics requested a demo \u2014 given your team's work with Snowflake, thought it was worth a quick note to the VP Operations.\n\nHappy to share how teams with a similar setup have approached this. Worth 15 minutes this week?\n\nBest,\n{sender_name}",
+    "reasons": "requested a demo; high recent engagement (visits + opens); strong ICP fit (size/funding/ARR potential); existing stack overlap (Snowflake); touched within the last few days"
+  },
+  {
+    "company": "Vantage Retail Co",
+    "subject": "Quick idea for Vantage Retail Co's data team",
+    "body": "Hi {first_name},\n\nNoticed Vantage Retail Co requested a demo \u2014 given your team's work with Salesforce+Snowflake, thought it was worth a quick note to the Head of Growth.\n\nHappy to share how teams with a similar setup have approached this. Worth 15 minutes this week?\n\nBest,\n{sender_name}",
+    "reasons": "requested a demo; high recent engagement (visits + opens); strong ICP fit (size/funding/ARR potential); existing stack overlap (Salesforce+Snowflake); touched within the last few days"
+  },
+  {
+    "company": "Lumen Insurance Group",
+    "subject": "Quick idea for Lumen Insurance Group's data team",
+    "body": "Hi {first_name},\n\nNoticed Lumen Insurance Group requested a demo \u2014 given your team's work with Snowflake+Databricks, thought it was worth a quick note to the VP Data Platform.\n\nHappy to share how teams with a similar setup have approached this. Worth 15 minutes this week?\n\nBest,\n{sender_name}",
+    "reasons": "requested a demo; high recent engagement (visits + opens); strong ICP fit (size/funding/ARR potential); existing stack overlap (Snowflake+Databricks); touched within the last few days"
+  },
+  {
+    "company": "Tidewater Financial",
+    "subject": "Quick idea for Tidewater Financial's data team",
+    "body": "Hi {first_name},\n\nNoticed Tidewater Financial requested a demo \u2014 given your team's work with Snowflake, thought it was worth a quick note to the Chief Data Officer.\n\nHappy to share how teams with a similar setup have approached this. Worth 15 minutes this week?\n\nBest,\n{sender_name}",
+    "reasons": "requested a demo; high recent engagement (visits + opens); strong ICP fit (size/funding/ARR potential); existing stack overlap (Snowflake); touched within the last few days"
+  }
+]
