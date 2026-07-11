@@ -1,5 +1,7 @@
 # Account Prioritization + AI Outreach Engine
 
+**▶ Live demo: https://monishab123.github.io/gtm-account-prioritization-engine/**
+
 Sorting a target account list into "call this one personally," "small-batch
 campaign," and "just nurture it" is something I did by hand, in a
 spreadsheet, running ABM campaigns at Snowflake. It's slow, it doesn't scale
@@ -9,7 +11,7 @@ actual system: score every account on engagement, ICP fit, recency, and
 tech-stack overlap, tier it automatically, and draft the outreach for
 whoever lands in the top tier.
 
-Open `app.html` in a browser to use it. The weight sliders aren't
+Open the live demo above (or `index.html` locally) to use it. The weight sliders aren't
 decoration — pull "fit" up and "engagement" down and the tiers actually
 reshuffle, because the whole pipeline recomputes on every change instead of
 just re-sorting a fixed list.
@@ -22,7 +24,7 @@ CRM export → score (engagement / fit / recency / tech) → tier (1:1 / 1:few /
 
 There are two versions of the same scoring logic: a Python CLI
 (`score_and_draft.py`) for a batch job against a real CRM export, and a JS
-version inside `app.html` for the interactive version. I ported the math
+version inside `index.html` for the interactive version. I ported the math
 twice on purpose and checked the outputs account-by-account to make sure
 both agree exactly — same inputs, same score, every time. (They do — check
 Brightline Logistics and Vantage Retail Co in both `scored_accounts.csv` and
